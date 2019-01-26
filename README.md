@@ -3,17 +3,17 @@
 1. https://github.com/ViennaRSS/vienna-rss (RSS Reader Library) 
 
 2. RSS Feed reader – daily, hourly  
-http://www.feed43.com/
-http://culture.fool.com/feed/ (The Motley Fool)
-https://seekingalpha.com/page/feeds (Seeking Alpha)
-http://feeds.reuters.com/reuters/businessNews (Reuters)
-http://www.wsj.com/public/page/rss_news_and_feeds.html (Wall St)
-https://seekingalpha.com/author/wall-st-cheat-sheet.xml (Cheat Sheet)
-https://www.cnbc.com/rss-feeds/ (CNBC)
-https://www.prnewswire.com/rss/news-for-investors-from-PR-Newswire-news.rss 
-https://www.marketwatch.com/rss/
-http://money.cnn.com/services/rss/
-http://www.nasdaq.com/services/rss.aspx
+http://www.feed43.com/  
+http://culture.fool.com/feed/ (The Motley Fool)  
+https://seekingalpha.com/page/feeds (Seeking Alpha)  
+http://feeds.reuters.com/reuters/businessNews (Reuters)  
+http://www.wsj.com/public/page/rss_news_and_feeds.html (Wall St)  
+https://seekingalpha.com/author/wall-st-cheat-sheet.xml (Cheat Sheet)  
+https://www.cnbc.com/rss-feeds/ (CNBC)  
+https://www.prnewswire.com/rss/news-for-investors-from-PR-Newswire-news.rss   
+https://www.marketwatch.com/rss/  
+http://money.cnn.com/services/rss/  
+http://www.nasdaq.com/services/rss.aspx  
 Bloomberg, Forbes, Business Journals, TheStreet, noodls, Marketwire, Wall Street Journal, Investor's Business Daily, AP, Investopedia, GlobeNewswire, Barron's, CNW Group, The New York Times, Zacks, The Fly on the Wall, ETF Trends, The Daily Ticker, etc.
 
 3. Fetch the link, extract the article, and break the sentences (tools): Hasan will send
