@@ -2,8 +2,8 @@
 
 1. https://github.com/ViennaRSS/vienna-rss (RSS Reader Library) 
 
-2. RSS Feed reader – daily, hourly
-   http://www.feed43.com/
+2. RSS Feed reader – daily, hourly  
+http://www.feed43.com/
 http://culture.fool.com/feed/ (The Motley Fool)
 https://seekingalpha.com/page/feeds (Seeking Alpha)
 http://feeds.reuters.com/reuters/businessNews (Reuters)
